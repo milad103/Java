@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;day3.IfElse.java&apos; to &apos;If.java&apos;&#x0D;&#x0A;- Original project: &apos;JavaPractiveEclipse&apos;&#x0D;&#x0A;- Original element: &apos;day3.IfElse.java&apos;&#x0D;&#x0A;- Renamed element: &apos;day3.If.java&apos;" description="Rename compilation unit &apos;IfElse.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;day3{IfElse.java" name="If.java" references="false" stamp="1616773491625" version="1.0"/>
+</session>
